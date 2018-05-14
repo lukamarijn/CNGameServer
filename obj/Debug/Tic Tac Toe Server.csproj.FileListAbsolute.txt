@@ -1,0 +1,7 @@
+C:\Users\lukab\source\repos\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\Tic Tac Toe Server.csprojResolveAssemblyReference.cache
+C:\Users\lukab\source\repos\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\Tic Tac Toe Server.csproj.CoreCompileInputs.cache
+C:\Users\lukab\source\repos\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\Tic Tac Toe Server.exe.config
+C:\Users\lukab\source\repos\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\Tic Tac Toe Server.exe
+C:\Users\lukab\source\repos\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\Tic Tac Toe Server.pdb
+C:\Users\lukab\source\repos\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\Tic Tac Toe Server.exe
+C:\Users\lukab\source\repos\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\Tic Tac Toe Server.pdb
